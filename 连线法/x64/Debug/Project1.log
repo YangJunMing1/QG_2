@@ -1,0 +1,6 @@
+﻿  GameApp.cpp
+C:\Users\22800\Desktop\小组作业2\连线法\GameApp.cpp(82,22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\小组作业2\连线法\GameApp.cpp(83,22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\小组作业2\连线法\GameApp.cpp(85,23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\小组作业2\连线法\GameApp.cpp(86,23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> C:\Users\22800\Desktop\小组作业2\连线法\x64\Debug\Project1.exe

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\代码\杂项\DX11\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\02 Rendering a Triangle(2019 Win10).exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\代码\杂项\DX11\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\HLSL\Triangle_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\代码\杂项\DX11\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\HLSL\Triangle_VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
