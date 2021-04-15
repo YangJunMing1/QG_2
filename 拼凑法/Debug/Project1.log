@@ -1,0 +1,142 @@
+﻿  d3dApp.cpp
+C:\Users\22800\Desktop\Project1\d3dApp.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\d3dApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\GameTimer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\d3dUtil.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\d3dUtil.h(38,94): error C2065: “TNameLength”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(41,54): error C2065: “TNameLength”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(41,75): error C2660: “ID3D11DeviceChild::SetPrivateData”: 函数不接受 2 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\d3d11.h(1400,43): message : 参见“ID3D11DeviceChild::SetPrivateData”的声明
+C:\Users\22800\Desktop\Project1\d3dUtil.h(53,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(68,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(96,85): error C2065: “TNameLength”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(99,52): error C2065: “TNameLength”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(99,73): error C2660: “IDXGIObject::SetPrivateData”: 函数不接受 2 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\dxgi.h(317,43): message : 参见“IDXGIObject::SetPrivateData”的声明
+C:\Users\22800\Desktop\Project1\d3dUtil.h(112,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(128,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,13): error C2734: “WCHAR”: 如果不是外部的，则必须初始化常量对象
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,13): error C2377: “WCHAR”: 重定义；typedef 不能由任何其他符号重载
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(471): message : 参见“WCHAR”的声明
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,13): warning C4228: 使用了非标准扩展: 忽略声明符列表中逗号后面的限定符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\22800\Desktop\Project1\d3dUtil.h(165,19): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\22800\Desktop\Project1\d3dUtil.h(165,19): error C2377: “LPCSTR”: 重定义；typedef 不能由任何其他符号重载
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(552): message : 参见“LPCSTR”的声明
+C:\Users\22800\Desktop\Project1\d3dUtil.h(165,9): error C2146: 语法错误: 缺少“;”(在标识符“entryPoint”的前面)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(167,22): error C2059: 语法错误:“)”
+C:\Users\22800\Desktop\Project1\DXTrace.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\DXTrace.h(22,43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\22800\Desktop\Project1\DXTrace.h(22,43): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Users\22800\Desktop\Project1\DXTrace.h(46,1): fatal error C1020: 意外的 #endif
+  d3dUtil.cpp
+C:\Users\22800\Desktop\Project1\d3dUtil.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\d3dUtil.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\d3dUtil.h(38,94): error C2065: “TNameLength”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(41,54): error C2065: “TNameLength”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(41,75): error C2660: “ID3D11DeviceChild::SetPrivateData”: 函数不接受 2 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\d3d11.h(1400,43): message : 参见“ID3D11DeviceChild::SetPrivateData”的声明
+C:\Users\22800\Desktop\Project1\d3dUtil.h(53,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(68,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(96,85): error C2065: “TNameLength”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(99,52): error C2065: “TNameLength”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(99,73): error C2660: “IDXGIObject::SetPrivateData”: 函数不接受 2 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\dxgi.h(317,43): message : 参见“IDXGIObject::SetPrivateData”的声明
+C:\Users\22800\Desktop\Project1\d3dUtil.h(112,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(128,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,13): error C2734: “WCHAR”: 如果不是外部的，则必须初始化常量对象
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,13): error C2377: “WCHAR”: 重定义；typedef 不能由任何其他符号重载
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(471): message : 参见“WCHAR”的声明
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,13): warning C4228: 使用了非标准扩展: 忽略声明符列表中逗号后面的限定符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\22800\Desktop\Project1\d3dUtil.h(165,19): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\22800\Desktop\Project1\d3dUtil.h(165,19): error C2377: “LPCSTR”: 重定义；typedef 不能由任何其他符号重载
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(552): message : 参见“LPCSTR”的声明
+C:\Users\22800\Desktop\Project1\d3dUtil.h(165,9): error C2146: 语法错误: 缺少“;”(在标识符“entryPoint”的前面)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(167,22): error C2059: 语法错误:“)”
+C:\Users\22800\Desktop\Project1\d3dUtil.cpp(4,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\22800\Desktop\Project1\d3dUtil.cpp(4,13): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Users\22800\Desktop\Project1\d3dUtil.cpp(13,62): error C2065: “ppBlobOut”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.cpp(27,85): error C2065: “entryPoint”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.cpp(27,97): error C2065: “shaderModel”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.cpp(28,22): error C2065: “ppBlobOut”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.cpp(35,4): error C3861: “SAFE_RELEASE”: 找不到标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.cpp(41,31): error C2065: “ppBlobOut”: 未声明的标识符
+  DXTrace.cpp
+C:\Users\22800\Desktop\Project1\DXTrace.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\DXTrace.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\DXTrace.h(46,1): fatal error C1020: 意外的 #endif
+  GameApp.cpp
+C:\Users\22800\Desktop\Project1\GameApp.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\GameApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\d3dApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\GameTimer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\d3dUtil.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\d3dUtil.h(38,94): error C2065: “TNameLength”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(41,54): error C2065: “TNameLength”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(41,75): error C2660: “ID3D11DeviceChild::SetPrivateData”: 函数不接受 2 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\d3d11.h(1400,43): message : 参见“ID3D11DeviceChild::SetPrivateData”的声明
+C:\Users\22800\Desktop\Project1\d3dUtil.h(53,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(68,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(96,85): error C2065: “TNameLength”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(99,52): error C2065: “TNameLength”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(99,73): error C2660: “IDXGIObject::SetPrivateData”: 函数不接受 2 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\dxgi.h(317,43): message : 参见“IDXGIObject::SetPrivateData”的声明
+C:\Users\22800\Desktop\Project1\d3dUtil.h(112,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(128,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,13): error C2734: “WCHAR”: 如果不是外部的，则必须初始化常量对象
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,13): error C2377: “WCHAR”: 重定义；typedef 不能由任何其他符号重载
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(471): message : 参见“WCHAR”的声明
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,13): warning C4228: 使用了非标准扩展: 忽略声明符列表中逗号后面的限定符
+C:\Users\22800\Desktop\Project1\d3dUtil.h(164,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\22800\Desktop\Project1\d3dUtil.h(165,19): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\22800\Desktop\Project1\d3dUtil.h(165,19): error C2377: “LPCSTR”: 重定义；typedef 不能由任何其他符号重载
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(552): message : 参见“LPCSTR”的声明
+C:\Users\22800\Desktop\Project1\d3dUtil.h(165,9): error C2146: 语法错误: 缺少“;”(在标识符“entryPoint”的前面)
+C:\Users\22800\Desktop\Project1\d3dUtil.h(167,22): error C2059: 语法错误:“)”
+C:\Users\22800\Desktop\Project1\DXTrace.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\DXTrace.h(22,43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\22800\Desktop\Project1\DXTrace.h(22,43): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+C:\Users\22800\Desktop\Project1\DXTrace.h(46,1): fatal error C1020: 意外的 #endif
+  GameTimer.cpp
+C:\Users\22800\Desktop\Project1\GameTimer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(51,18): error C2039: "DeltaTime": 不是 "GameTimer" 的成员
+C:\Users\22800\Desktop\Project1\GameTimer.h(8): message : 参见“GameTimer”的声明
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(52,1): error C2270: “DeltaTime”: 非成员函数上不允许修饰符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(53,16): error C2065: “m_DeltaTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(68,17): error C2039: "Start": 不是 "GameTimer" 的成员
+C:\Users\22800\Desktop\Project1\GameTimer.h(8): message : 参见“GameTimer”的声明
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(80,6): error C2065: “m_Stopped”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(82,3): error C2065: “m_PausedTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(82,32): error C2065: “m_StopTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(84,3): error C2065: “m_PrevTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(85,3): error C2065: “m_StopTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(86,3): error C2065: “m_Stopped”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(90,17): error C2039: "Stop": 不是 "GameTimer" 的成员
+C:\Users\22800\Desktop\Project1\GameTimer.h(8): message : 参见“GameTimer”的声明
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(92,7): error C2065: “m_Stopped”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(97,3): error C2065: “m_StopTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(98,3): error C2065: “m_Stopped”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(102,17): error C2039: "Tick": 不是 "GameTimer" 的成员
+C:\Users\22800\Desktop\Project1\GameTimer.h(8): message : 参见“GameTimer”的声明
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(104,6): error C2065: “m_Stopped”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(106,3): error C2065: “m_DeltaTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(112,2): error C2065: “m_CurrTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(115,2): error C2065: “m_DeltaTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(115,17): error C2065: “m_CurrTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(115,30): error C2065: “m_PrevTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(115,42): error C2065: “m_SecondsPerCount”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(118,2): error C2065: “m_PrevTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(118,15): error C2065: “m_CurrTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(120,5): error C2065: “m_DeltaTime”: 未声明的标识符
+C:\Users\22800\Desktop\Project1\GameTimer.cpp(122,3): error C2065: “m_DeltaTime”: 未声明的标识符
+  Main.cpp
+C:\Users\22800\Desktop\Project1\Main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\GameApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\d3dApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\GameTimer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\22800\Desktop\Project1\Main.cpp(13,1): fatal error C1020: 意外的 #endif
+  正在生成代码...
