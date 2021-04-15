@@ -1,0 +1,25 @@
+﻿  d3dApp.cpp
+  d3dUtil.cpp
+  DXTrace.cpp
+  GameApp.cpp
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(116,22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(118,18): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(119,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(119,37): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(120,116): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(120,18): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(121,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(123,117): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(123,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(124,48): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(124,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(125,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(128,20): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(157,3): warning C4838: 从“double”转换到“DWORD”需要收缩转换
+C:\Users\22800\Desktop\键鼠\GameApp.cpp(157,3): warning C4244: “初始化”: 从“double”转换到“DWORD”，可能丢失数据
+  GameTimer.cpp
+  Keyboard.cpp
+  Main.cpp
+  Mouse.cpp
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\22800\Desktop\键鼠\Debug\Project1.exe
